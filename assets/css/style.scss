@@ -2,3 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+
+html {
+    background: #89836c;
+}
+
+header {
+    background: #e2d8a7;
+}
+
+header h1 {
+    color: #887627;
+}
